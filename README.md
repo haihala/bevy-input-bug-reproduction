@@ -13,4 +13,6 @@ To try it out for yourself:
 
 Tapping down will reset the situation.
 
-Will see if it this happens on Bevy 0.15 next
+# Important: It seems to be fixed in Bevy 0.15
+
+Deep sigh
